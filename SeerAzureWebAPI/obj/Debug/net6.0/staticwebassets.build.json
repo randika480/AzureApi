@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "piDWjCgVapCjxTpjqR2sUasNgMJM4VLJAl0o82UYz1Y=",
+  "Source": "SeerAzureWebAPI",
+  "BasePath": "_content/SeerAzureWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
